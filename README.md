@@ -4,6 +4,8 @@
 - 📫 You can connect me on:
    * harioms1522@gmail.com
 
+<strong>Languages and tools</strong>
+
 <!---
 harioms1522/harioms1522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
