@@ -1,4 +1,4 @@
-<div style="display:flex; flex-direction:column">
+<div style="display:flex; flex-direction:row">
   <h1>Hi, I’m <span style="color: red; font-size: 20px;"> Hariom Sharma </span></h1>
   <div>
     <ul>
