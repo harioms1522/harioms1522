@@ -1,5 +1,5 @@
 <div style="display:flex; flex-direction:row">
-  <h1>Hi, I’m <span style="color: red; font-size: 20px;"> Hariom Sharma </span></h1>
+  <h1>Hi, I’m <span align="center"> Hariom Sharma </span></h1>
   <div>
     <ul>
       <li>
