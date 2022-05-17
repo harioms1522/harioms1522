@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Hariom Sharma
+- 👋 Hi, I’m <span style="color:green;"> Hariom Sharma </span>
 - 👀 I’m interested in developing solutions to tackel business problems using technology and make world a little easier to handle. I am a machine learning enthusiast and a web developer.
-- 🌱 I’m currently learning web development (Javascript, nodejs, reach and mongodb) and machine learning.
+- 🌱 NodeJS || Express || 
+- 🤞 Mongo DB expert.
+
 - 📫 You can connect me on:
    * harioms1522@gmail.com
 
