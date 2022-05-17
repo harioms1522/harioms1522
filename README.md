@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <span style="color: red; font-size: 20px;"> Hariom Sharma </span>
+<h1>Hi, I’m <span style="color: red; font-size: 20px;"> Hariom Sharma </span></h1>
 - 👀 I’m interested in developing solutions to tackel business problems using technology and make world a little easier to handle. I am a machine learning enthusiast and a web developer.
 - 🌱 NodeJS || Express || 
 - 🤞 Mongo DB expert.
