@@ -1,5 +1,5 @@
 <div style="display:flex; flex-direction:row">
-  <h1>Hi, I’m <span align="center"> Hariom Sharma </span></h1>
+  <h1 align="center">🔊Hi, I’m <span align="center"> Hariom Sharma </span></h1>
   <div>
     <ul>
       <li>
@@ -15,11 +15,15 @@
   </div>
 </div>
 
-</hr>
-- 📫 You can connect me on:
-   * harioms1522@gmail.com
+<h2 align="center">
+  📫 Contact Me At:
+</h2>
+<p>harioms1522@gmail.com</p>
 
-<strong>Languages and tools</strong>
+<h2 align="center">
+  <strong>💻Languages and tools</strong>
+</h2>
+
 <div style="align:center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
