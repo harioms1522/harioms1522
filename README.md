@@ -1,30 +1,29 @@
-<div style="display:flex; flex-direction:row">
-  <h1 align="center">🔊Hi, I’m <span align="center"> Hariom Sharma </span></h1>
-  <div>
-    <ul>
-      <li>
-          👀 I’m interested in developing solutions to tackel business problems using technology and make world a little easier to handle. I am a machine learning                  enthusiast and   a web developer.
-      </li>
-      <li>
-          🌱 NodeJS || Express || 
-      </li>
-      <li>
-          🤞 Mongo DB expert.
-      </li>
-    </ul>
-  </div>
-</div>
 
+<h1 align="center">🔊Hi, I’m <span align="center"> Hariom Sharma </span></h1>
+    
+<p align="center">
+    👀 I’m interested in developing solutions to tackel business problems using technology and make world a little easier to handle. I am a machine learning                  enthusiast and   a web developer.
+</p>
+<p align="center">
+    🌱 NodeJS || Express || 
+</p>
+<p align="center">
+    🤞 Mongo DB expert.
+</p>
+
+
+  
+  
 <h2 align="center">
   📫 Contact Me At:
 </h2>
-<p>harioms1522@gmail.com</p>
+<p align="center">harioms1522@gmail.com</p>
 
 <h2 align="center">
-  <strong>💻Languages and tools</strong>
+  <strong align="center">💻Languages and tools</strong>
 </h2>
 
-<div style="align:center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<div align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
