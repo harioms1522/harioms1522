@@ -14,6 +14,8 @@
     </ul>
   </div>
 </div>
+
+</hr>
 - 📫 You can connect me on:
    * harioms1522@gmail.com
 
