@@ -8,7 +8,7 @@
     🌱 NodeJS || Express || 
 </p>
 <p align="center">
-    🤞 Mongo DB expert.
+    🤞 Mongo DB.
 </p>
 
 </i>
