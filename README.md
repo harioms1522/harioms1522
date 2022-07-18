@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     ✨ HTML || CSS || JavaScript || JQuery || React ✨
-    🛑 NodeJS || Express || JavaScript || JQuery || CSS 🛑
+    🛑 NodeJS || Express || Ejs 🛑
 </p>
 <p align="center">
     🤞 Mongo DB.
