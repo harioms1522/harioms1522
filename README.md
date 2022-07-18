@@ -5,7 +5,7 @@
     👀 I’m interested in developing solutions to tackel business problems using technology and make world a little easier to handle. I am a machine learning                  enthusiast and   a web developer.
 </p>
 <p align="center">
-    🌱 NodeJS || Express || 
+    🛑 NodeJS || Express || JavaScript || JQuery || CSS 🛑
 </p>
 <p align="center">
     🤞 Mongo DB.
