@@ -5,10 +5,12 @@
     👀 I’m interested in developing solutions to tackel business problems using technology and make world a little easier to handle. I am a machine learning                  enthusiast and   a web developer.
 </p>
 <p align="center">
-    ✨ HTML || CSS || JavaScript || JQuery || React ✨
-    <hr/>
     🛑 NodeJS || Express || Ejs 🛑
 </p>
+<p align="center">
+    ✨ HTML || CSS || JavaScript || JQuery || React ✨
+</p>
+   
 <p align="center">
     🤞 Mongo DB.
 </p>
