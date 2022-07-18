@@ -4,8 +4,12 @@
 <p align="center">
     👀 I’m interested in developing solutions to tackel business problems using technology and make world a little easier to handle. I am a machine learning                  enthusiast and   a web developer.
 </p>
+<p align="center>
+          <h4>Frontend: </h4>
+          ✨ HTML || CSS || JavaScript || JQuery || <strong>React</strong> ✨
+</p>
 <p align="center">
-    🛑 NodeJS || Express || JavaScript || JQuery || CSS 🛑
+    🛑 NodeJS || Express || CSS 🛑
 </p>
 <p align="center">
     📚 Mongo DB || MySQL || Redis 📚
