@@ -1,6 +1,6 @@
 
 <h1 align="center">🔊Hi, I’m <span align="center"> Hariom Sharma </span></h1>
-    <i>
+
 <p align="center">
     👀 I’m interested in developing solutions to tackel business problems using technology and make world a little easier to handle. I am a machine learning                  enthusiast and   a web developer.
 </p>
@@ -14,8 +14,6 @@
 <p align="center">
     📚 Mongo DB || MySQL || Redis 📚
 </p>
-
-</i>
   
   
 <h2 align="center">
