@@ -12,7 +12,7 @@
 </p>
    
 <p align="center">
-    🤞 Mongo DB.
+    🗄 Mongo DB || MySQL || Redis 🗄
 </p>
 
 </i>
