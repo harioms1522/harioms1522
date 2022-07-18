@@ -6,6 +6,7 @@
 </p>
 <p align="center">
     ✨ HTML || CSS || JavaScript || JQuery || React ✨
+    <hr/>
     🛑 NodeJS || Express || Ejs 🛑
 </p>
 <p align="center">
